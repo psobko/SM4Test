@@ -1,4 +1,4 @@
-#SM4Test
+# SM4 Encryption Test
 
 SM4 is a Chinese symmetric encryption algothithm which was declassified by OSCCA in 2006. It's a enctral component of the WAPI stanrdard (WLAN Authentication and Privacy Infrastructure) and almost became a global standard but was beaten by 802.11i. Despite this it's still a government enforced standard and SMS4 is widely used across China for packet encryption across wireless networks.
 
